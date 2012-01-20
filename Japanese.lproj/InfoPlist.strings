@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "はちゅねミク";
+NSHumanReadableCopyright = "はちゅねミクとは、VOCALOID 初音ミクのデフォルメキャラである。\nhttp://dic.nicovideo.jp/a/はちゅねミク";
+
